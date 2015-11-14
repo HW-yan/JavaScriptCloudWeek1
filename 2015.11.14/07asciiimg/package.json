@@ -1,0 +1,21 @@
+{
+  "name": "asciiimg",
+  "version": "1.0.0",
+  "description": "imge to asciimge",
+  "main": "index.js",
+  "bin":{
+      "assciiimg":"./02index.js"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "test","cloud"
+  ],
+  "author": "yanhsuanwei",
+  "license": "CSIE"
+}
